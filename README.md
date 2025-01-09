@@ -91,14 +91,7 @@ code-analysis-assistant/
 - `streamlit`: Interface gráfica web
 - `requests`: Comunicação HTTP com o servidor Ollama
 - `markdown`: Processamento de documentação Markdown
-
-## 🤝 Contribuindo
-
-1. Faça um Fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
+- 
 
 ## ⚠️ Limitações Conhecidas
 
