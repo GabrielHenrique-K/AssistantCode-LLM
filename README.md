@@ -32,7 +32,7 @@ pip install -r requirements.txt
 3. Configure a URL do ngrok:
 Abra o arquivo `main.py` e atualize a variável `NGROK_URL` com sua URL do ngrok:
 ```python
-NGROK_URL = "sua-url-ngrok-aqui"
+NGROK_URL = "https://driven-heron-typically.ngrok-free.app"
 ```
 
 ## 💻 Uso
